@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+  <sys_ux_screen_type action="INSERT_OR_UPDATE">
+    <sys_id>bf17a01455b14f74a95a2c8256785ad2</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_ux_screen_type_bf17a01455b14f74a95a2c8256785ad2</sys_update_name>
+    <description/>
+    <name>Simple List</name>
+  </sys_ux_screen_type>
+</record_update>

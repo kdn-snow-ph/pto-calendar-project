@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen">
+  <sys_ux_screen action="INSERT_OR_UPDATE">
+    <sys_id>4c198f31722148019a307e7d7a793728</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_ux_screen_4c198f31722148019a307e7d7a793728</sys_update_name>
+    <active>true</active>
+    <app_config>5f6885684f7a4628b15333ac1c9477b9</app_config>
+    <description/>
+    <disable_auto_reflow>false</disable_auto_reflow>
+    <disable_interoperable>false</disable_interoperable>
+    <event_mappings/>
+    <macroponent>8515f3e853031010ffa5ddeeff7b1297</macroponent>
+    <macroponent_config>{"bare":{"type":"JSON_LITERAL","value":true},"headerLevel":{"type":"JSON_LITERAL","value":"1"},"headingOnlyVisibleToScreenReaders":{"type":"JSON_LITERAL","value":false},"interceptNotifications":{"type":"JSON_LITERAL","value":false},"label":{"type":"TRANSLATION_LITERAL","value":{"code":null,"comment":"","message":""}},"propagateNotifications":{"type":"JSON_LITERAL","value":false},"scrollable":{"type":"JSON_LITERAL","value":"y"}}</macroponent_config>
+    <name>Simple List</name>
+    <order>0</order>
+    <parent_macroponent>c276387cc331101080d6d3658940ddd2</parent_macroponent>
+    <required_translations/>
+    <rollback_screen/>
+    <screen_condition/>
+    <screen_type>bf17a01455b14f74a95a2c8256785ad2</screen_type>
+  </sys_ux_screen>
+</record_update>

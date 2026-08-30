@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_application">
+  <sys_app_application action="INSERT_OR_UPDATE">
+    <sys_id>b7efae1626ef4290be0dee31442ca258</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_app_application_b7efae1626ef4290be0dee31442ca258</sys_update_name>
+    <active>true</active>
+    <category/>
+    <description/>
+    <device_type>browser</device_type>
+    <hint>Manage Paid Time Off entries</hint>
+    <name/>
+    <order>100</order>
+    <roles>x_165991_pto_cal_0.user</roles>
+    <title>PTO Calendar</title>
+  </sys_app_application>
+</record_update>

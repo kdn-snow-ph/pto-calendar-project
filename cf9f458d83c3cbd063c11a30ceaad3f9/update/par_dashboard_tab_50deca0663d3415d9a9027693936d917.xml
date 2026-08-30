@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_tab">
+  <par_dashboard_tab action="INSERT_OR_UPDATE">
+    <sys_id>50deca0663d3415d9a9027693936d917</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>par_dashboard_tab_50deca0663d3415d9a9027693936d917</sys_update_name>
+    <active>true</active>
+    <dashboard>05cab3a3ef8a48fca12e7e13c43842ed</dashboard>
+    <name>Overview</name>
+    <order>0</order>
+  </par_dashboard_tab>
+</record_update>

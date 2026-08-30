@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_property">
+  <sys_ux_page_property action="INSERT_OR_UPDATE">
+    <sys_id>0182876eb3d243078489947f84b485e2</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_ux_page_property_0182876eb3d243078489947f84b485e2</sys_update_name>
+    <description/>
+    <name>wbApplicabilityConfigId</name>
+    <page>e2e7e22a93cf4686a252ddf6dc1610b5</page>
+    <route/>
+    <suffix>wbApplicabilityConfigId</suffix>
+    <type>string</type>
+    <value>5f6885684f7a4628b15333ac1c9477b9</value>
+  </sys_ux_page_property>
+</record_update>

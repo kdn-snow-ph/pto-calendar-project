@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+  <sys_ui_list table="x_165991_pto_cal_0_pto_entry">
+    <sys_ui_list_element action="INSERT_OR_UPDATE">
+      <sys_id>214978dc17c54bbc87c8c4c72b39edee</sys_id>
+      <list_id display_value="x_165991_pto_cal_0_pto_entry" element="NULL" name="x_165991_pto_cal_0_pto_entry" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cf0307c84ba34ecaa6f663e8377638da</list_id>
+      <element>user</element>
+      <position>0</position>
+    </sys_ui_list_element>
+    <sys_ui_list_element action="INSERT_OR_UPDATE">
+      <sys_id>887ffdd15a274dab89902d45cb7cd902</sys_id>
+      <list_id display_value="x_165991_pto_cal_0_pto_entry" element="NULL" name="x_165991_pto_cal_0_pto_entry" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cf0307c84ba34ecaa6f663e8377638da</list_id>
+      <element>start_date</element>
+      <position>1</position>
+    </sys_ui_list_element>
+    <sys_ui_list_element action="INSERT_OR_UPDATE">
+      <sys_id>f28de98918344185900249cad315912a</sys_id>
+      <list_id display_value="x_165991_pto_cal_0_pto_entry" element="NULL" name="x_165991_pto_cal_0_pto_entry" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cf0307c84ba34ecaa6f663e8377638da</list_id>
+      <element>end_date</element>
+      <position>2</position>
+    </sys_ui_list_element>
+    <sys_ui_list_element action="INSERT_OR_UPDATE">
+      <sys_id>2388e93980414a109790443c3c067cdc</sys_id>
+      <list_id display_value="x_165991_pto_cal_0_pto_entry" element="NULL" name="x_165991_pto_cal_0_pto_entry" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cf0307c84ba34ecaa6f663e8377638da</list_id>
+      <element>pto_type</element>
+      <position>3</position>
+    </sys_ui_list_element>
+    <sys_ui_list_element action="INSERT_OR_UPDATE">
+      <sys_id>73c4a1e7a18a4140bb08acab556b17a4</sys_id>
+      <list_id display_value="x_165991_pto_cal_0_pto_entry" element="NULL" name="x_165991_pto_cal_0_pto_entry" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cf0307c84ba34ecaa6f663e8377638da</list_id>
+      <element>status</element>
+      <position>4</position>
+    </sys_ui_list_element>
+    <sys_ui_list_element action="INSERT_OR_UPDATE">
+      <sys_id>de6d5bcd78d841889a0ecfb05b0febf3</sys_id>
+      <list_id display_value="x_165991_pto_cal_0_pto_entry" element="NULL" name="x_165991_pto_cal_0_pto_entry" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cf0307c84ba34ecaa6f663e8377638da</list_id>
+      <element>hours</element>
+      <position>5</position>
+    </sys_ui_list_element>
+    <sys_ui_list action="INSERT_OR_UPDATE">
+      <sys_id>cf0307c84ba34ecaa6f663e8377638da</sys_id>
+      <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+      <view name="NULL">Default view</view>
+      <name>x_165991_pto_cal_0_pto_entry</name>
+    </sys_ui_list>
+  </sys_ui_list>
+</record_update>

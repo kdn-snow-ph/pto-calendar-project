@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_category">
+  <sys_ux_list_category action="INSERT_OR_UPDATE">
+    <sys_id>0fb0a59b3ef144dcaafb18313669c6e0</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_ux_list_category_0fb0a59b3ef144dcaafb18313669c6e0</sys_update_name>
+    <active>true</active>
+    <configuration>a9a8ff47a59942f2917b3ae9c93d07d9</configuration>
+    <description/>
+    <order>10</order>
+    <title>PTO Entries</title>
+  </sys_ux_list_category>
+</record_update>

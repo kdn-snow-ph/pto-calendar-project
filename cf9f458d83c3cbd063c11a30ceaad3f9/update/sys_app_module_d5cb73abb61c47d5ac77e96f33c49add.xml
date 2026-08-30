@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_module">
+  <sys_app_module action="INSERT_OR_UPDATE">
+    <sys_id>d5cb73abb61c47d5ac77e96f33c49add</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_app_module_d5cb73abb61c47d5ac77e96f33c49add</sys_update_name>
+    <active>true</active>
+    <application>b7efae1626ef4290be0dee31442ca258</application>
+    <hint>Create a new PTO entry</hint>
+    <link_type>NEW</link_type>
+    <name>x_165991_pto_cal_0_pto_entry</name>
+    <order>200</order>
+    <roles>x_165991_pto_cal_0.user</roles>
+    <title>New PTO Entry</title>
+  </sys_app_module>
+</record_update>

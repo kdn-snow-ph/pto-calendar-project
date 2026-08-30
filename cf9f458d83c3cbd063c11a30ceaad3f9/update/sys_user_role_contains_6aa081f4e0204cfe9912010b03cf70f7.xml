@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+  <sys_user_role_contains action="INSERT_OR_UPDATE">
+    <sys_id>6aa081f4e0204cfe9912010b03cf70f7</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_user_role_contains_6aa081f4e0204cfe9912010b03cf70f7</sys_update_name>
+    <contains name="x_165991_pto_cal_0.user">03adb90a7b8945209b9eb225fde9c8a3</contains>
+    <role name="x_165991_pto_cal_0.admin">0e1df13695d44b2fbc3cdb8ea6e6d61a</role>
+  </sys_user_role_contains>
+</record_update>

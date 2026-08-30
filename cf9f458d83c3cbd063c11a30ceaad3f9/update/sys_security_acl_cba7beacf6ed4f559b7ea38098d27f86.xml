@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+  <sys_security_acl action="INSERT_OR_UPDATE">
+    <sys_id>cba7beacf6ed4f559b7ea38098d27f86</sys_id>
+    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+    <sys_update_name>sys_security_acl_cba7beacf6ed4f559b7ea38098d27f86</sys_update_name>
+    <active>true</active>
+    <admin_overrides>true</admin_overrides>
+    <advanced>false</advanced>
+    <applies_to/>
+    <condition/>
+    <decision_type>allow</decision_type>
+    <description/>
+    <name>pto-calendar.*</name>
+    <operation display_value="read">read</operation>
+    <script/>
+    <security_attribute/>
+    <type>b9eb8a1b873303002941b53046cb1234</type>
+  </sys_security_acl>
+</record_update>
