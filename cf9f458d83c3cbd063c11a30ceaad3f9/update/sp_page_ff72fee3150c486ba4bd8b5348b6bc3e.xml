@@ -12,7 +12,7 @@
     <internal>false</internal>
     <omit_watcher>false</omit_watcher>
     <public>false</public>
-    <roles>admin,x_165991_pto_cal_0.user,x_165991_pto_cal_0.admin</roles>
+    <roles/>
     <seo_script/>
     <short_description/>
     <title>PTO Calendar Home</title>

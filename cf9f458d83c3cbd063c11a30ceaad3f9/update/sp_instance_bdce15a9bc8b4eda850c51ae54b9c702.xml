@@ -65,6 +65,6 @@
     <sp_widget>5001b062d7101200b0b044580e6103eb</sp_widget>
     <title>PTO Entries</title>
     <url/>
-    <widget_parameters>{"table":"x_165991_pto_cal_0_pto_entry","fields":"user,start_date,end_date,pto_type,status,hours","o":"start_date","d":"desc","show_new":true,"show_keywords":true,"color":"primary"}</widget_parameters>
+    <widget_parameters/>
   </sp_instance>
 </record_update>
