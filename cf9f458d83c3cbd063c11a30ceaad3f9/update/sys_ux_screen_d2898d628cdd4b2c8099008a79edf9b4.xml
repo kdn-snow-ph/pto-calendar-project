@@ -6,10 +6,10 @@
     <active>true</active>
     <app_config>5f6885684f7a4628b15333ac1c9477b9</app_config>
     <macroponent>4cae00c4eb750110d05213b3475228e5</macroponent>
-    <macroponent_config>{"payload":{"type":"JSON_LITERAL","value":{"props_details":{"source":"/x_165991_pto_cal_0_calendar.do"}}},"label":{"type":"TRANSLATION_LITERAL","value":{"message":"PTO Calendar","comment":""}},"bare":{"type":"JSON_LITERAL","value":true},"scrollable":{"type":"JSON_LITERAL","value":"y"},"headerLevel":{"type":"JSON_LITERAL","value":"1"},"headingOnlyVisibleToScreenReaders":{"type":"JSON_LITERAL","value":false},"interceptNotifications":{"type":"JSON_LITERAL","value":false},"propagateNotifications":{"type":"JSON_LITERAL","value":false}}</macroponent_config>
-    <name>PTO Calendar iFrame</name>
+    <macroponent_config>{"payload":{"type":"JSON_LITERAL","value":{"props_details":{"source":"/x_165991_pto_cal_0_calendar.do"}}},"label":{"type":"TRANSLATION_LITERAL","value":{"message":"PTO Calendar"}},"bare":{"type":"JSON_LITERAL","value":true}}</macroponent_config>
+    <name>PTO Calendar View</name>
     <order>0</order>
     <parent_macroponent>c276387cc331101080d6d3658940ddd2</parent_macroponent>
-    <screen_type>d9b1eb00c8814f2e971b1407c6647fbe</screen_type>
+    <screen_type>00ae00c4eb750110d05213b3475228e2</screen_type>
   </sys_ux_screen>
 </record_update>
