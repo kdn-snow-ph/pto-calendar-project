@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>view</name>
+        <page display_value="PTO Calendar">e2e7e22a93cf4686a252ddf6dc1610b5</page>
+        <required_translations/>
+        <route/>
+        <suffix>view</suffix>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 00:46:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>744d239200c34fb6b9db8e6f56d0702c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="PTO Calendar" source="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PTO Calendar">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_page_property_744d239200c34fb6b9db8e6f56d0702c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 00:46:28</sys_updated_on>
+        <type>string</type>
+        <unique_name/>
+        <value>workspace-5f6885684f7a4628b15333ac1c9477b9</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=744d239200c34fb6b9db8e6f56d0702c"/>
+</record_update>

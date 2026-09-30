@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="de96470e022d4a45a4d1753e651ff314" label="PTO Entry" name="x_165991_pto_cal_0_pto_entry" type="collection">
+        <element label="Notes" max_length="1000" name="notes" type="string"/>
+        <element label="Start Date" mandatory="true" max_length="40" name="start_date" type="glide_date"/>
+        <element choice="1" default="vacation" label="PTO Type" mandatory="true" max_length="40" name="pto_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Bereavement" sequence="3" value="bereavement"/>
+                <element inactive_on_update="false" label="Other" sequence="4" value="other"/>
+                <element inactive_on_update="false" label="Sick Leave" sequence="1" value="sick"/>
+                <element inactive_on_update="false" label="Personal" sequence="2" value="personal"/>
+                <element inactive_on_update="false" label="Vacation" sequence="0" value="vacation"/>
+            </choice>
+        </element>
+        <element display="true" label="Resource" mandatory="true" max_length="32" name="user" reference="sys_user" reference_qual="active=true" reference_qual_condition="active=true" type="reference"/>
+        <element active="false" default="8" label="Hours" max_length="20" name="hours" type="decimal"/>
+        <element active="false" choice="1" default="pending" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Cancelled" sequence="3" value="cancelled"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Pending" sequence="0" value="pending"/>
+            </choice>
+        </element>
+        <element label="End Date" mandatory="true" max_length="40" name="end_date" type="glide_date"/>
+        <index name="index">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

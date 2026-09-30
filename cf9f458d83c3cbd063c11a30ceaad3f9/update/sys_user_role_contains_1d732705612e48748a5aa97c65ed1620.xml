@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_admin" name="canvas_admin">9706354bc713330072b211d4d8c260be</contains>
+        <role display_value="x_165991_pto_cal_0.admin" name="x_165991_pto_cal_0.admin">0e1df13695d44b2fbc3cdb8ea6e6d61a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 00:46:27</sys_created_on>
+        <sys_id>1d732705612e48748a5aa97c65ed1620</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_admin.x_165991_pto_cal_0.admin</sys_name>
+        <sys_package display_value="PTO Calendar" source="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PTO Calendar">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+        <sys_update_name>sys_user_role_contains_1d732705612e48748a5aa97c65ed1620</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 00:46:27</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
