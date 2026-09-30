@@ -1,20 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
-  <sys_ux_app_route action="INSERT_OR_UPDATE">
-    <sys_id>53ae969420064296997ccb036b63e61d</sys_id>
-    <sys_scope display_value="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
-    <sys_update_name>sys_ux_app_route_53ae969420064296997ccb036b63e61d</sys_update_name>
-    <app_config>5f6885684f7a4628b15333ac1c9477b9</app_config>
-    <description/>
-    <extension_point/>
-    <fields>table</fields>
-    <icon/>
-    <interoperable>false</interoperable>
-    <name>Simple List</name>
-    <optional_parameters>listTitle,query,disableInlineEditing</optional_parameters>
-    <order>0</order>
-    <parent_macroponent>c276387cc331101080d6d3658940ddd2</parent_macroponent>
-    <parent_macroponent_composition_element_id/>
-    <route_type>simplelist</route_type>
-    <screen_type>bf17a01455b14f74a95a2c8256785ad2</screen_type>
-  </sys_ux_app_route>
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="PTO Calendar">5f6885684f7a4628b15333ac1c9477b9</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table</fields>
+        <icon/>
+        <interoperable>false</interoperable>
+        <name>Simple List</name>
+        <optional_parameters>listTitle,query,disableInlineEditing</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>simplelist</route_type>
+        <screen_type display_value="Simple List">bf17a01455b14f74a95a2c8256785ad2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-30 00:46:27</sys_created_on>
+        <sys_id>53ae969420064296997ccb036b63e61d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Simple List</sys_name>
+        <sys_package display_value="PTO Calendar" source="x_165991_pto_cal_0">cf9f458d83c3cbd063c11a30ceaad3f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PTO Calendar">cf9f458d83c3cbd063c11a30ceaad3f9</sys_scope>
+        <sys_update_name>sys_ux_app_route_53ae969420064296997ccb036b63e61d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-30 00:46:27</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=53ae969420064296997ccb036b63e61d"/>
 </record_update>
